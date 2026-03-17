@@ -1,5 +1,7 @@
 # zsh-uv-env
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/aemonge)
+
 zsh-uv-env is a plugin for zsh and uv. It automatically activates a virtual environment
 based on the current directory.
 
